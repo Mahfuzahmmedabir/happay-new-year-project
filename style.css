@@ -80,3 +80,77 @@ header {
   font-weight: 700;
   text-transform: uppercase;
 }
+/* Welcome to midnight pary */
+.section-2 {
+  border-radius: 16px;
+  background-color: reba(0, 0, 0, 0.9);
+  background-blend-mode: overlay;
+  width: 1300px;
+  height: 600px;
+  background-image: url(images/Vectorrr.png);
+  display: flex;
+  align-items: center;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  margin-top: 150px;
+}
+.night-party {
+  font-family: Merriweather;
+  padding: 120px;
+}
+
+.night-party-title {
+  color: rgb(255, 255, 255);
+  font-family: Merriweather;
+  font-size: 64px;
+  font-weight: 900;
+}
+.decription {
+  color: rgba(255, 255, 255, 0.8);
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: -20px;
+}
+img.tothousje {
+  width: 300px;
+  height: 400px;
+}
+.btn-join {
+  color: azure;
+  font-size: 20px;
+}
+/* New park Hotel */
+
+.Hotel-park {
+  width: 1320px;
+  height: 420px;
+  border: 0.1px solid rgba(255, 5, 5, 0.1);
+  /* border: none; */
+  border-radius: 16px;
+  margin: 0 auto;
+  margin-top: 150px;
+  background-color: rgba(255, 5, 5, 0.1);
+}
+.park-section {
+  text-align: center;
+  margin-top: 120px;
+}
+
+.heading2 {
+  font-family: 'Inter', sans-serif;
+  margin-top: 20px;
+}
+
+.red-colo {
+  color: #ff0000;
+}
+.btn {
+  font-size: 18px;
+  padding: 10px 15px;
+  border: none;
+  background-color: #ff0000;
+  border-radius: 5px;
+  color: #ffffff;
+  font-family: 'Inter', sans-serif;
+}
