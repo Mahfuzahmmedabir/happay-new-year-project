@@ -125,24 +125,21 @@ img.tothousje {
 .Hotel-park {
   width: 1320px;
   height: 420px;
-  border: 0.1px solid rgba(255, 5, 5, 0.1);
-  /* border: none; */
   border-radius: 16px;
   margin: 0 auto;
   margin-top: 150px;
-  background-color: rgba(255, 5, 5, 0.1);
+   background-image: linear-gradient(MistyRose,#ffff );
 }
 .park-section {
   text-align: center;
-  margin-top: 120px;
+  padding-top: 150px;
 }
 
 .heading2 {
   font-family: 'Inter', sans-serif;
   margin-top: 20px;
 }
-
-.red-colo {
+.span-colo {
   color: #ff0000;
 }
 .btn {
